@@ -1,7 +1,7 @@
 package main
 
 import (
-    "fmt"
+    "fmt" // add comment by author02
     "os"
 )
 
