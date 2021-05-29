@@ -1,7 +1,7 @@
 package main
 
 import (
-    "fmt" // add commit by author01
+    "fmt" // add comment by author02
     "os"
 )
 
